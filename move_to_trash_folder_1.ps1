@@ -1,5 +1,5 @@
 ﻿cls
-# vytvori v ceste $path adresar nahodneho nazvu a vnej jeste soubor, taky nahodneho nazvu
+# vytvori v ceste $cesta adresar nahodneho nazvu a vnej jeste soubor, taky nahodneho nazvu
 # a potom vse presune do kose ve Windows ( da se obnovit z kose pro kontrolu potom )
 
 $str = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
